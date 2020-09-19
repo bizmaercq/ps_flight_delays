@@ -1,8 +1,7 @@
 ---
 Author: 
-"Bismark Adomako"
-email:
-"bismark.adomako@bizmaercq.com"
+- Bismark Adomako
+- bismark.adomako@bizmaercq.com"
 Course:
 "Building, Training, and Validating Models in Azure"
 Course description: "This course will help you decide which model to choose and why by building a model which will try to predict if a flight would be delayed more than 15 mins with given data."
