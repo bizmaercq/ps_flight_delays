@@ -25,7 +25,6 @@ This repository contains the files necessary for hands-on labs to support conten
 | `CHANGELOG.md`    | List of changes to the labs                |
 | `README.md`       | This README file.                          |
 | `LICENSE`         | The license for this repo                  |
-| `SECURITY.md`     | Security guidance                          |
 
 ## Prerequisites
 
