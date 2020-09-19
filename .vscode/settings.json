@@ -1,0 +1,4 @@
+{
+    "ai.azureml.defaultWorkspaceId": "/subscriptions/d09a2b06-19d3-43a2-adb0-55088c10565e/resourceGroups/Intelfort_Big_Data_01/providers/Microsoft.MachineLearningServices/workspaces/customer_360_ws",
+    "python.dataScience.jupyterServerURI": "local"
+}
