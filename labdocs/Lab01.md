@@ -40,8 +40,13 @@ You can perform many machine learning tasks in the *Studio* interface, but it's 
     cd Users
     git clone https://github.com/bizmaercq/ps_flight_delays
     ```
+7. Next, run the following commands to change the current directory to the **data** directory in the **ps_flight_delays** lab folder, and unzip the data that will be used in this course:
+    ```bash
+    cd ps_flight_delays/data
+    unzip flight_delays_data.csv.zip
+    ````
 
-7. After the command has completed, close the terminal tab and view the home page in your Jupyter notebook file explorer. Then open the **Users** folder - it should contain an **ps_flight_delays** folder, containing the files you will use in the rest of this lab.
+8. After the command has completed, close the terminal tab and view the home page in your Jupyter notebook file explorer. Then open the **Users** folder - it should contain an **ps_flight_delays** folder, containing the files you will use in the rest of this course.
 
 ## Use the Azure Machine Learning SDK in a Notebook
 
