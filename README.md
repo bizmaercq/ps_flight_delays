@@ -34,6 +34,8 @@ Azure Machine Learning (Azure ML) is a Microsoft Azure-based service for running
 
 You must follow the instructions in the first lab ([Getting Started with Azure Machine Learning](./labdocs/Lab01.md)) to create an Azure Machine Learning workspace and set up a compute instance to work on before completing any subsequent labs in this repository.
 
+>  *⚠️⚠️⚠️ If you are experiencing challenges cloning this repo into your User folder in Azure Macchine Learnin, please download this git repo, extract and upload manually into your users folder on AML. The rest of instructions continues from the video.*
+
 ## Completing the Labs
 
 Complete the labs in order by following the links on the [Lab Exercises](./labdocs/README.md) page.
