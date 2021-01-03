@@ -8,6 +8,8 @@ Course description: "This course will help you decide which model to choose and 
 CourseURL: "https://app.pluralsight.com/library/courses/microsoft-azure-building-training-validating-models/table-of-contents"
 ---
 
+>  *⚠️⚠️⚠️ If you are experiencing challenges cloning this repo into your User folder in Azure Macchine Learnin, please download this git repo, extract and upload manually into your users folder on AML. The rest of instructions continues from the video.*
+
 # Building, Training, and Validating Models in Azure
 
 
